@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--The Startup List--\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains (< 365 days) in Los Angeles, CA, US",
+  "export_job_id": "fea7864a-c323-4f11-bde6-67724d46731b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 650799,
+  "location_name": "Los Angeles",
+  "location_type": "city",
+  "repo_name": "new-restaurant-domains-365-days-in-los-angeles-ca-us-sample-650799",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/650799/beamstation_650799_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 57,
+  "sample_sha256": "398347014b96f96ae5c096d251b3873acd375c56a6f10b3b6bb1073fb93f4901",
+  "sample_size_bytes": 217439,
+  "total_records": 579,
+  "updated_at": "2026-04-08T06:17:00.541598+00:00"
+}

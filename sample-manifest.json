@@ -1,0 +1,12 @@
+{
+  "export_job_id": "fea7864a-c323-4f11-bde6-67724d46731b",
+  "id_short": 650799,
+  "published_at": "2026-04-13T07:26:50Z",
+  "repo_name": "new-restaurant-domains-365-days-in-los-angeles-ca-us-sample-650799",
+  "sample_asset_name": "beamstation_650799_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/650799/beamstation_650799_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 57,
+  "sample_sha256": "398347014b96f96ae5c096d251b3873acd375c56a6f10b3b6bb1073fb93f4901",
+  "sample_size_bytes": 217439,
+  "total_records": 579
+}
